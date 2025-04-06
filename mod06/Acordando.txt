@@ -1,0 +1,38 @@
+1. Ao acordar, sair da cama
+2. Retirar a roupa do corpo
+4. Pegar a roupa de serviço
+5. Vestir a roupa de serviço
+6. Sair do quarto
+7. Andar até o banheiro
+8. A porta do banheiro está fechada?
+    1. Colocar a mão na maçaneta
+    2. Aplicar força na maçaneta para baixo
+    3. Abrir a porta
+    4. Entrar no banheiro
+9. Entrar no banheiro
+10. Pegar a escova de dentes
+11. Pegar o tudo de creme dental
+12. Apertar o tubo do creme dental
+13. Passar o creme dental nas cerdas da escova
+14. Guardar o tubo de creme dental
+15. Escovar os dentes
+16. Colocar a mão no registro da torneira
+17. Girar o registro até sair água
+18. Lavar a escova de dentes
+19. Guardar a escova de dentes
+20. Lavar a boca
+21. Lavar o rosto
+22. Fechar a torneira
+23. Pegar a tolha
+24. Secar o rosto com a tolha
+25. Pendurar a tolha
+26. Sair do banheiro
+27. Caminhar até a porta da casa
+28. A porta está trancada?
+    1. Colocar a mão na chave
+    2. Girar a chave
+    3. Abrir a porta
+29. Abrir a porta
+30. Sair de casa
+31. Fechar a porta novamente
+32. Sair para o serviço.
